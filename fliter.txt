@@ -1,0 +1,5 @@
+[Adblock Plus 2.0]
+! Title: Cyber Defense Wall
+! -------------------------
+||kotusite.com^
+||zararliyayin.net^
